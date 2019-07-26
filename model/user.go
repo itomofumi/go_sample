@@ -4,7 +4,7 @@ import (
 	"strconv"
 
 	"github.com/jinzhu/gorm"
-	"github.com/masashi1014/go_sample/config"
+	"github.com/itomofumi/go_sample/config"
 )
 
 type User struct {
