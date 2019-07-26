@@ -1,4 +1,4 @@
-module github.com/masashi1014/go_sample
+module github.com/itomofumi/go_sample
 
 go 1.12
 
